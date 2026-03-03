@@ -1,0 +1,25 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">TaskNotes</string>
+
+    <!-- Main screen -->
+    <string name="title_my_tasks">My Tasks</string>
+    <string name="label_no_tasks">No tasks yet!\nTap + to add one.</string>
+
+    <string name="title_add_task">Add New Task</string>
+    <string name="title_edit_task">Edit Task</string>
+    <string name="hint_task_title">Task title (required)</string>
+    <string name="hint_task_description">Description (optional)</string>
+    <string name="btn_save_task">SAVE TASK</string>
+    <string name="btn_cancel">CANCEL</string>
+
+    <string name="action_delete">Delete</string>
+    <string name="action_mark_complete">Mark complete</string>
+    <string name="content_description_delete">Delete task</string>
+    <string name="content_description_add">Add new task</string>
+
+    <string name="msg_task_saved">Task saved!</string>
+    <string name="msg_task_deleted">Task deleted</string>
+    <string name="msg_enter_title">Please enter a title</string>
+    <string name="msg_title_too_long">Title is too long (max 100 characters)</string>
+</resources>
