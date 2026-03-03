@@ -22,8 +22,8 @@ on the device using SharedPreferences.
 ## Screenshots
 
 ### Screenshot 1 — App Launch Fist Time
-![App Launch](screenshots/App_Launch.jpg)
-![App Launch](screenshots/P_App_Launch.png)
+![App Launch](Screenshots/App_Launch.jpg)
+![App Launch](Screenshots/P_App_Launch.png)
 
 When the app is opened for the first time (or after all tasks
 are deleted), a friendly empty state message is shown.
@@ -32,8 +32,8 @@ The floating action button (+) is always visible to add tasks.
 ---
 
 ### Screenshot 2 — Task List Screen
-![Task List](screenshots/Display_List_of_Tasks.jpg)
-![Task List](screenshots/P_Display_List_of_Tasks.png)
+![Task List](Screenshots/Display_List_of_Tasks.jpg)
+![Task List](Screenshots/P_Display_List_of_Tasks.png)
 
 The main screen shows all saved tasks as Material Design cards.
 Completed tasks display with strikethrough text and grey color.
@@ -42,8 +42,8 @@ The delete button (red trash icon) appears on every card.
 ---
 
 ### Screenshot 3 — Add New Task Screen
-![Add Task](screenshots/Add_New_Task.jpg)
-![Add Task](screenshots/P_Add_New_Tasks.png)
+![Add Task](Screenshots/Add_New_Task.jpg)
+![Add Task](Screenshots/P_Add_New_Tasks.png)
 
 The Add Task screen provides two input fields.
 Title is required — an error message appears if left empty.
@@ -53,14 +53,14 @@ and returns to the main screen.
 ---
 
 ### Screenshot 4 — Delete Notification Popup
-![Delete Task](screenshots/P_Task_Delete_Notification.png)
+![Delete Task](Screenshots/P_Task_Delete_Notification.png)
 
 When the delete button (trash icon) is pressed, the selected task is removed immediately.
 A confirmation Snackbar message appears at the bottom showing “Task deleted”.
 This provides instant feedback to the user.
 
 ### Screenshot 5 — Save Notification Popup
-![Save Task](screenshots/P_Task_Save_Notification.png)
+![Save Task](Screenshots/P_Task_Save_Notification.png)
 
 After adding a new task successfully, a Snackbar message appears displaying “Task saved!”.
 The task list refreshes automatically and shows the newly added task.
